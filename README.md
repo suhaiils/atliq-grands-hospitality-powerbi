@@ -2,6 +2,11 @@
 
 An independent Power BI case study using sample hotel data for May–July 2022. The analysis covers 25 properties, 134,590 booking records, and daily capacity and successful-booking data.
 
+
+## Dashboard preview
+
+![Power BI dashboard preview](Dashboard_page-0001.jpg)
+
 ## Project goal
 
 Build an interactive report to explore hotel revenue, occupancy, guest ratings, booking channels, and cancellations across properties and cities.
